@@ -24,5 +24,13 @@ h2 {
     display: block;
     margin: 1rem auto 0 auto;
     font-size: 1.4rem;
-    border: 10px;
+    background-color: #4d4d4d;
+    padding: 0.4rem;
+    border-radius: 10px;
+    border: none;
+}
+
+.play-again-btn:active {
+    background-color: #3b3b3b;
+
 }
