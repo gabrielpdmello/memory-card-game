@@ -1,0 +1,28 @@
+.scoreboard {
+    position: relative;
+}
+
+.points {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    font-size: 1.6rem;
+}
+
+.points p {
+    margin: 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.2rem;
+    margin: 0 0 1rem 0;
+    line-height: 1;
+}
+
+.play-again-btn {
+    display: block;
+    margin: 1rem auto 0 auto;
+    font-size: 1.4rem;
+    border: 10px;
+}

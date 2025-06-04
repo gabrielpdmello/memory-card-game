@@ -1,0 +1,12 @@
+.card {
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: #3b3b3b;
+}
+
+.card-img {
+    width: 15rem;
+    height: 15rem;
+}
